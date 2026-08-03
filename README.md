@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/TARIKTR1099"><img src="https://img.shields.io/github/followers/TARIKTR1099?label=Followers&style=social" /></a>
-  <a href="https://tarikeler.github.io"><img src="https://img.shields.io/badge/Portfolio-tarikeler.github.io-1a5fb4?style=flat-square" /></a>
+  <a href="https://tariktr1099.github.io"><img src="https://img.shields.io/badge/Portfolio-tariktr1099.github.io-1a5fb4?style=flat-square" /></a>
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@
 
 <p align="center">
   <a href="https://github.com/TARIKTR1099"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://tarikeler.github.io"><img src="https://img.shields.io/badge/-Portfolyo-1a5fb4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://tariktr1099.github.io"><img src="https://img.shields.io/badge/-Portfolyo-1a5fb4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
