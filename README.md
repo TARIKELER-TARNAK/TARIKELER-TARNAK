@@ -2,8 +2,8 @@
 <h3 align="center">💻 Developer · 🧩 VS Code Extensions · 🖥️ Desktop Apps · 🤖 AI Coding Agent Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/TARIKTR1099"><img src="https://img.shields.io/github/followers/TARIKTR1099?label=Followers&style=social" /></a>
-  <a href="https://tariktr1099.github.io"><img src="https://img.shields.io/badge/Portfolio-tariktr1099.github.io-1a5fb4?style=flat-square" /></a>
+  <a href="https://github.com/TARIKELER-TARNAK"><img src="https://img.shields.io/github/followers/TARIKELER-TARNAK?label=Followers&style=social" /></a>
+  <a href="https://tarikelertarnak.github.io"><img src="https://img.shields.io/badge/Portfolio-tarikelertarnak.github.io-1a5fb4?style=flat-square" /></a>
 </p>
 
 <p align="center">
@@ -32,29 +32,29 @@
 
 | Proje | Açıklama |
 |---|---|
-| 🎬 [**Player**](https://github.com/TARIKTR1099/Player) | Müzik, video ve ses oynatıcı · Eklenti sistemi + AI entegrasyonu · 5 platform |
-| 🧩 [**CodeHub**](https://github.com/TARIKTR1099/codehub-vsc) | VS Code terminal ve AI agent yöneticisi · Oturum yönetimi, 14 hazır agent |
-| ⚙️ [**Office Setup Wizard**](https://github.com/TARIKTR1099/OfficeSetupWizard) | Tek tıkla Office LTSC 2024 kurulum ve aktivasyon aracı |
-| 🔬 [**AI-Jailbreak**](https://github.com/TARIKTR1099/AI-Jailbreak) | AI model güvenlik sınırlarını test etmek için prompt koleksiyonu |
-| 🎮 [**TarnakLua-Roblox**](https://github.com/TARIKTR1099/TarnakLua-Roblox) | Roblox Lua araçları ve script geliştirme |
-| 📄 [**Scribd-Download**](https://github.com/TARIKTR1099/Scribd-Download) | Scribd belgelerini yüksek kalitede indirme tarayıcı eklentisi |
+| 🎬 [**Player**](https://github.com/TARIKELER-TARNAK/Player) | Müzik, video ve ses oynatıcı · Eklenti sistemi + AI entegrasyonu · 5 platform |
+| 🧩 [**CodeHub**](https://github.com/TARIKELER-TARNAK/codehub-vsc) | VS Code terminal ve AI agent yöneticisi · Oturum yönetimi, 14 hazır agent |
+| ⚙️ [**Office Setup Wizard**](https://github.com/TARIKELER-TARNAK/OfficeSetupWizard) | Tek tıkla Office LTSC 2024 kurulum ve aktivasyon aracı |
+| 🔬 [**AI-Jailbreak**](https://github.com/TARIKELER-TARNAK/AI-Jailbreak) | AI model güvenlik sınırlarını test etmek için prompt koleksiyonu |
+| 🎮 [**TarnakLua-Roblox**](https://github.com/TARIKELER-TARNAK/TarnakLua-Roblox) | Roblox Lua araçları ve script geliştirme |
+| 📄 [**Scribd-Download**](https://github.com/TARIKELER-TARNAK/Scribd-Download) | Scribd belgelerini yüksek kalitede indirme tarayıcı eklentisi |
 
 ## 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TARIKTR1099&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TARIKTR1099&layout=compact&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TARIKELER-TARNAK&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TARIKELER-TARNAK&layout=compact&theme=radical" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TARIKTR1099&theme=radical" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TARIKELER-TARNAK&theme=radical" height="170" />
 </p>
 
 ## 📫 Bana Ulaş
 
 <p align="center">
-  <a href="https://github.com/TARIKTR1099"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://tariktr1099.github.io"><img src="https://img.shields.io/badge/-Portfolyo-1a5fb4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://github.com/TARIKELER-TARNAK"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://tarikelertarnak.github.io"><img src="https://img.shields.io/badge/-Portfolyo-1a5fb4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
