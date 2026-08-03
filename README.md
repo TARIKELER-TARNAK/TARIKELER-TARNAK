@@ -35,7 +35,7 @@
 | Proje | Açıklama |
 |---|---|
 | 🎬 [**Player**](https://github.com/TARIKELER-TARNAK/Player) | Müzik, video ve ses oynatıcı · Eklenti sistemi + AI entegrasyonu · 5 platform |
-| 🧩 [**CodeHub**](https://github.com/TARIKELER-TARNAK/codehub-vsc) | VS Code terminal ve AI agent yöneticisi · Oturum yönetimi, 14 hazır agent |
+| 🧩 [**CodeHub**](https://github.com/TARIKELER-TARNAK/codehub-vsc) | Terminal ve AI agent yöneticisi · Oturum yönetimi, 14 hazır agent |
 | ⚙️ [**Office Setup Wizard**](https://github.com/TARIKELER-TARNAK/OfficeSetupWizard) | Tek tıkla Office LTSC 2024 kurulum ve aktivasyon aracı |
 | 🔬 [**AI-Jailbreak**](https://github.com/TARIKELER-TARNAK/AI-Jailbreak) | AI model güvenlik sınırlarını test etmek için prompt koleksiyonu |
 | 🎮 [**TarnakLua-Roblox**](https://github.com/TARIKELER-TARNAK/TarnakLua-Roblox) | Roblox Lua araçları ve script geliştirme |
