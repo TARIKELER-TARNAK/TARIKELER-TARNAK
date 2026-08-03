@@ -1,6 +1,6 @@
 <!-- Tarık Eler · Tarnak · TARIKELER-TARNAK -->
 <h1 align="center">👋 Merhaba, Ben <strong>Tarık Eler</strong></h1>
-<h3 align="center">💻 Geliştirici · 🧩 VS Code Eklentileri · 🖥️ Masaüstü Uygulamalar · 🤖 AI Coding Agent'lar</h3>
+<h3 align="center">💻 Geliştirici · 🤖 Yapay Zeka (AI) · 🖥️ Masaüstü Uygulamalar</h3>
 
 <p align="center">
   <a href="https://github.com/TARIKELER-TARNAK"><img src="https://img.shields.io/github/followers/TARIKELER-TARNAK?label=Takipçi&style=social" /></a>
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
@@ -23,9 +23,9 @@
 
 ## 🚀 Hakkımda
 
-**Tarık Eler** (ayrıca **Tarnak** / **TARIKELER-TARNAK** olarak da bilinir) — **Türkiye'den bir yazılım geliştirici.** GitHub üzerinde **VS Code eklentileri**, **masaüstü uygulamalar** ve **yapay zeka destekli coding agent** projeleri geliştiriyorum.
+**Tarık Eler** (ayrıca **Tarnak** / **TARIKELER-TARNAK** olarak da bilinir) — **Türkiye'den bir yazılım geliştirici.** GitHub üzerinde **yapay zeka** ve **masaüstü uygulamalar** projeleri geliştiriyorum.
 
-- 🔭 Şu anda **VS Code eklentileri** ve **masaüstü uygulamalar** geliştiriyorum
+- 🤖 Şu anda **yapay zeka** ve **masaüstü uygulamalar** üzerinde çalışıyorum
 - 🤖 Yapay zeka destekli **coding agent'lar** ve **medya uygulamaları** üzerinde çalışıyorum
 - 🌱 Her gün yeni bir şey öğrenmeye çalışıyorum
 - 📍 **Türkiye** · ⚡ Hobi: Kendi araçlarımı yazmak
